@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh yadav</h1>
-<h3 align="center">Motivated and innovative aspiring full-stack web developer Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
+<h3 align="center"> I am an enthusiastic and innovative aspiring full-stack web developer with a strong motivation to make significant contributions to organizations. With a dedicated work ethic and a commitment to continuous improvement, I aim to leverage my skills and passion for web development to excel in the dynamic and evolving field. Eager to learn and grow, I look forward to embracing challenges and creating impactful solutions in the world of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhi4009&label=Profile%20views&color=0e75b6&style=flat" alt="akhi4009" /> </p>
 
